@@ -36,3 +36,5 @@
  * INLINE IS USE NOT TAG ONE TIME TAG USE NO ANY TIME TAG IS USE THIS IS CALLED INLINE AND INLLINE IS USE IN ATTRIBUTE .
 * INTERNAL IS USE IN HEAD AND USE IN STYLE  THIS IS CALLED INTERNAL 
 * EXTRNAL BY USGIN IN HEAD BUT USE IN LINK  is called external
+# link
+>link is use  in anqer tag anqer tag is a <  a  > and link is use in anqer tag href use in anqer tag link pest in anqer tag .
