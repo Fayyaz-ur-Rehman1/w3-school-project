@@ -36,6 +36,21 @@
  * INLINE IS USE NOT TAG ONE TIME TAG USE NO ANY TIME TAG IS USE THIS IS CALLED INLINE AND INLLINE IS USE IN ATTRIBUTE .
 * INTERNAL IS USE IN HEAD AND USE IN STYLE  THIS IS CALLED INTERNAL 
 * EXTRNAL BY USGIN IN HEAD BUT USE IN LINK  is called external
-# link
->link is use  in anqer tag anqer tag is a <  a  > and link is use in anqer tag href use in anqer tag link pest in anqer tag .
-#
+# html link
+>link is use  in anqer tag anqer tag is a <  a  > []and link is use in anqer tag href use in anqer tag link pest in anqer tag .
+# html image
+>image is a one element and src is attribute this is called image
+# html favicon
+>favicon is use to show logo example instagram whatsapp facebhook and any app have a logo first of all logo in any app instgram logo is (https://1000logos.net/instagram-logo/)whatsapp logo is [](https://en.wikipedia.org/wiki/WhatsApp and facebhook logo is [](https://www
+shutterstock.com/search/facebook tis is caled favicon
+# html table
+>table is a normal table
+first of all table table raw
+table tag is <  tr  >
+and tr tag use in th and td  table haeding and table table data table part colspan is give colom 
+rawspan is give raws
+cell pedding is use border big in 
+cell spacing is use out big border this is call cell spaicing
+that is all called table
+# 
+>
