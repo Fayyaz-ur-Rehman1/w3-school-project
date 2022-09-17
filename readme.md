@@ -52,5 +52,15 @@ rawspan is give raws
 cell pedding is use border big in 
 cell spacing is use out big border this is call cell spaicing
 that is all called table
-# 
->
+# html list
+> list are 3 type 
+* ul list mean unorder list
+* ol list mean order list 
+* li list  mean list itmes
+* dl list mean description list
+* dt list mean discription list
+* dd list mean discription list 
+
+THIS IS ALL TYPE LIST
+# classes
+> class is use any place then class is use a dotted tag any place use . then we called classes .s
