@@ -63,4 +63,6 @@ that is all called table
 
 THIS IS ALL TYPE LIST
 # classes
-> class is use any place then class is use a dotted tag any place use . then we called classes .s
+> class is use any place then class is use a dotted tag any place use . then we called classes .
+# id
+> id is use in attribute id work in colising tag > that is called id and most important is any palce that id use that is called id 
