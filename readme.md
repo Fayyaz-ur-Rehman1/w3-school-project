@@ -66,3 +66,5 @@ THIS IS ALL TYPE LIST
 > class is use any place then class is use a dotted tag any place use . then we called classes .
 # id
 > id is use in attribute id work in colising tag > that is called id and most important is any palce that id use that is called id 
+# file path 
+> file path is use  a path of image src and image src past in attribute that is called file path 
