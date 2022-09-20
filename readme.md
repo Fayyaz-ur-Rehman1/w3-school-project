@@ -68,3 +68,5 @@ THIS IS ALL TYPE LIST
 > id is use in attribute id work in colising tag > that is called id and most important is any palce that id use that is called id 
 # file path 
 > file path is use  a path of image src and image src past in attribute that is called file path 
+# head html
+>css all work in head  and tittle and style meta link that work in head that is called head 
