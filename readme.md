@@ -70,3 +70,5 @@ THIS IS ALL TYPE LIST
 > file path is use  a path of image src and image src past in attribute that is called file path 
 # head html
 >css all work in head  and tittle and style meta link that work in head that is called head 
+# html form 
+>html form is a form tag this tag help and ready form first of form tag is use all work in form tag and input is use in form tag and input tag is a main tag in form this tag is use to all form rady this is call form html
