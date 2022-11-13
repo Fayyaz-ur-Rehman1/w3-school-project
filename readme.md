@@ -76,4 +76,4 @@ THIS IS ALL TYPE LIST
 >html iframes is use to display a web page inside a web page.
 we can put any video 
 or
-files
+file
