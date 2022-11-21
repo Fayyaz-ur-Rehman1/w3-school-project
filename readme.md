@@ -40,7 +40,8 @@
 >link is use  in anqer tag anqer tag is a <  a  > []and link is use in anqer tag href use in anqer tag link pest in anqer tag .
 # html image
 >image is a one element and src is attribute this is called image
-# html favicon
+# HTML FEVICON
+
 >favicon is use to show logo example instagram whatsapp facebhook and any app have a logo first of all logo in any app instgram logo is (https://1000logos.net/instagram-logo/)whatsapp logo is [](https://en.wikipedia.org/wiki/WhatsApp and facebhook logo is [](https://www
 shutterstock.com/search/facebook tis is caled favicon
 # html table
