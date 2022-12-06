@@ -60,7 +60,7 @@ that is all called table
 * li list  mean list itmes
 * dl list mean description list
 * dt list mean discription list
-* dd list mean discription list 
+* dt List mean discription List
 
 THIS IS ALL TYPE LIST
 # classes
